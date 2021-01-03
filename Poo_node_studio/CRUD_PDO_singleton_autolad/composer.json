@@ -1,0 +1,9 @@
+{
+    "name": "primeiroprojecto/dao",
+    "description": "Primeiro projecto DAO",
+    "autoload": {
+        "psr-4":{
+            "App\\":"App/"
+        }
+    }
+}

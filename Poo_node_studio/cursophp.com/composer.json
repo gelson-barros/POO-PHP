@@ -1,0 +1,7 @@
+{
+    "name": "gelson/composer",
+    "description": "trabalhar com composer",
+    "require":{
+        "cocur/slugify": "4.0"
+    }
+}
