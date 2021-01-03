@@ -1,7 +1,7 @@
 # PHP_POO
-## Como trabalhar com orientação objecto na linguagem PHP
+## Como trabalhar o básico com orientação objecto na linguagem PHP 
 
-Maior parte do contéudo extraído nest link [**ribafs** :link: ](https://ribafs.me/basicos/phpoo/introducao-ao-phpoo.html) 
+Maior parte do contéudo extraído nest link [**ribafs** :link: ](https://ribafs.me/basicos/phpoo/introducao-ao-phpoo.html) que também já não esta no ar ou copie mal o link.
 
 Programação orientada a objetos é um estilo de programação que permite aos desenvolvedores agruparem tarefas semelhantes em classes. Isso ajuda a manter dentro do princípio "don't repeat yourself" (DRY) (em português, não se repita), além de facilitar a manutenção do código.
 
